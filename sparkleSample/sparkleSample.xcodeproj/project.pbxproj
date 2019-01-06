@@ -161,7 +161,6 @@
 				637F23A7319F167E3A4561B7 /* Pods-sparkleSampleUITests.debug.xcconfig */,
 				52E154BD50E6937912F2629F /* Pods-sparkleSampleUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

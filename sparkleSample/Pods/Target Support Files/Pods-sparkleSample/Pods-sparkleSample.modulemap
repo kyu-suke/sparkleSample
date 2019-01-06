@@ -1,0 +1,6 @@
+framework module Pods_sparkleSample {
+  umbrella header "Pods-sparkleSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
